@@ -1,0 +1,23 @@
+Wed Jan 24 19:13:29 2024
+ Name : ron	 ID : 1	 Bill : 400		Customer Type: Simple
+	--------
+Wed Jan 24 19:29:02 2024
+ Name : r	 ID : 1	 Bill : 200
+	--------
+Wed Jan 24 19:31:29 2024
+ Name : ron	 ID : 1	 Bill : 50
+	--------
+Thu Jan 25 17:30:28 2024
+ Name : ron	 ID : 1	 Bill : 400	 Type : Simple Customer
+	--------
+Thu Jan 25 17:32:03 2024
+ Name : e	 ID : 1	 Bill : 200	 Type : Simple Customer
+	--------
+Fri Jan 26 20:26:38 2024
+ Name : on	 ID : 1	 Bill : 500	 Type : Simple Customer
+	--------
+Wed Jan 31 12:33:43 2024
+ Name : ron	 ID : 1	 Bill : 700	 Type : Simple Customer
+	--------
+Wed Jan 31 16:52:43 2024
+ Name : ron	 ID : 1	 Bill : 400 Name : ron	 ID : 1	 Bill : 300 Name : ron	 ID : 1	 Bill : 200 Name : ron	 ID : 1	 Bill : 40000 Name : ron	 ID : 1	 Bill : 200 Name : ron	 ID : 1	 Bill : 1500
